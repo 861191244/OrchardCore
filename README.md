@@ -1,3 +1,11 @@
+
+OrchardCore
+Orchard Core是使用ASP.NET Core构建的开源模块化，多租户应用程序框架，以及在该应用程序框架之上构建的内容管理系统（CMS）。
+
+https://github.com/OrchardCMS/OrchardCore
+
+https://orchardcore.readthedocs.io/en/dev/
+
 # Orchard Core 
 
 Orchard Core consists of two distinct projects:
